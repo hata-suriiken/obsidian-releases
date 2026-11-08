@@ -33554,7 +33554,7 @@
     "id": "ctrl-scroll-zoom",
     "name": "Ctrl+Scroll Zoom",
     "author": "Katsuhiko Hata",
-    "description": "Zoom the whole app in and out with Ctrl + mouse wheel (scroll up to zoom in, down to zoom out), like a browser. Trackpad pinch-to-zoom works too. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Zoom in and out with Ctrl + mouse wheel, like a browser. By default only the note content zooms (text and images; UI stays at 100%); a whole-app mode is available. Trackpad pinch-to-zoom works too. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hata-suriiken/obsidian-ctrl-scroll-zoom"
   },
   {
